@@ -1,0 +1,13 @@
+MANIFEST.in
+RELEASE-VERSION
+setup.cfg
+setup.py
+src/redjack/__init__.py
+src/redjack/sphinx/__init__.py
+src/redjack/sphinx/lua.py
+src/sphinx_lua.egg-info/PKG-INFO
+src/sphinx_lua.egg-info/SOURCES.txt
+src/sphinx_lua.egg-info/dependency_links.txt
+src/sphinx_lua.egg-info/namespace_packages.txt
+src/sphinx_lua.egg-info/requires.txt
+src/sphinx_lua.egg-info/top_level.txt
