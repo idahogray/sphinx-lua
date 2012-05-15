@@ -1,0 +1,4 @@
+RELEASE-VERSION
+build/
+dist/
+*.py[co]
