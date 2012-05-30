@@ -1,2 +1,0 @@
-redjack
-redjack.sphinx
