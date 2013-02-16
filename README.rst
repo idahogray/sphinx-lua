@@ -17,6 +17,6 @@ Run ``python setup.py isntall``.
 
 Then, add ``redjack.sphinx.lua`` to your conf.py::
 
-    extensions = ['sphinx_http_domain']
+    extensions = ['redjack.sphinx.lua']
 
 
